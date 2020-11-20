@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: DeckData
+  m_EditorClassIdentifier: Assembly-CSharp::DeckData
+  _name: Regular
+  _deck:
+  - Id: 0
+    ImageId: 237
+    Title: Remus Lupin
+    Description: Others will tell him what his mother and father died for. One day,
+      he'll understand.
+    Mana: 15
+    Attack: 10
+    HP: 30
+  - Id: 1
+    ImageId: 238
+    Title: Albus Dumbledore
+    Description: It is our choices, Harry, that show who we truly are, far more than
+      our abilities.
+    Mana: 20
+    Attack: 15
+    HP: 50
+  - Id: 2
+    ImageId: 239
+    Title: Hermione Granger
+    Description: I'm highly logical which allows me to look past extraneous detail
+      and perceive clearly that which others overlook.
+    Mana: 5
+    Attack: 5
+    HP: 15
+  - Id: 3
+    ImageId: 240
+    Title: Ron Weasley
+    Description: Bloody hell!
+    Mana: 5
+    Attack: 10
+    HP: 15
+  - Id: 4
+    ImageId: 241
+    Title: Sirius Black
+    Description: Get away from my godson!
+    Mana: 10
+    Attack: 25
+    HP: 30
+  - Id: 5
+    ImageId: 242
+    Title: Minerva McGonagal
+    Description: "And now \u2014 Piertotum Locomotor! Hogwarts is threatened! Man
+      the boundaries, protect us, do your duty to our school!"
+    Mana: 10
+    Attack: 40
+    HP: 30
+  - Id: 6
+    ImageId: 243
+    Title: Draco Malfoy
+    Description: No one asked for your opinion, you filthy little Mudblood!
+    Mana: 5
+    Attack: 15
+    HP: 10
+  - Id: 7
+    ImageId: 244
+    Title: Dobby
+    Description: Such a beautiful place, to be with friends. Dobby is happy to be
+      with his friend, Harry Potter.
+    Mana: 10
+    Attack: 25
+    HP: 5
+  - Id: 8
+    ImageId: 248
+    Title: Harry Potter
+    Description: You're a wizard, Harry.
+    Mana: 15
+    Attack: 10
+    HP: 15
+  - Id: 9
+    ImageId: 247
+    Title: Alastor Moody
+    Description: Constant vigilance!
+    Mana: 20
+    Attack: 45
+    HP: 35
